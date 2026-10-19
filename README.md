@@ -15,11 +15,12 @@ Bastidores do desenvolvimento, devlogs e dicas: **[@duarteio](https://www.youtub
 ### 📌 Projetos
 | Projeto | O que é |
 |---|---|
-| `moto-vlog-brasil-3` | Jogo principal da Duarte Games (privado até o lançamento) |
+| `moto-vlog-brasil-3` | Jogo principal da Duarte Games (código privado) |
 | `site-duarte-games` | Site oficial da Duarte Games |
 | Robôs MT5 | Robôs de automação para MetaTrader 5 (código privado) |
 
 ---
 📫 Fale comigo pelo canal no YouTube.
+
 
 
