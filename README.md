@@ -4,7 +4,7 @@
 Faço jogos em Unity/C# e conto o processo no YouTube.
 
 ### 🎮 Em desenvolvimento
-- **Moto Vlog Brasil 3 (MVB3)** — jogo de moto em mundo aberto. **Lançamento: 01/12/2026**.
+- **Moto Vlog Brasil 3 (MVB3)** — jogo de moto em mundo aberto, em desenvolvimento.
 
 ### 📺 YouTube
 Bastidores do desenvolvimento, devlogs e dicas: **[@duarteio](https://www.youtube.com/@duarteio)**
@@ -21,4 +21,5 @@ Bastidores do desenvolvimento, devlogs e dicas: **[@duarteio](https://www.youtub
 
 ---
 📫 Fale comigo pelo canal no YouTube.
+
 
